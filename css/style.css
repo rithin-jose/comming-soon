@@ -701,7 +701,7 @@ h1, h2, h3
 
 .container{
   width: 100%
-  height: 100vh;
+  height: auto;
   padding-top: 25vh;
 }
 
